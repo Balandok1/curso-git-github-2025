@@ -12,3 +12,5 @@ este arquivo contém informações adicionais para git
 diufhauhf
 dsafsad
 fdsfasdfa
+
+teste
